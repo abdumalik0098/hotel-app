@@ -1,0 +1,181 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.ConsoleApp\\HotelSystem.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.ConsoleApp\\HotelSystem.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.ConsoleApp\\HotelSystem.ConsoleApp.csproj",
+        "projectName": "HotelSystem.ConsoleApp",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.ConsoleApp\\HotelSystem.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj"
+              },
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\HotelSystem.Memory.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\HotelSystem.Memory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj",
+        "projectName": "HotelSystem.Lib",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\HotelSystem.Memory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\HotelSystem.Memory.csproj",
+        "projectName": "HotelSystem.Memory",
+        "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\HotelSystem.Memory.csproj",
+        "packagesPath": "C:\\Users\\Fisabeel\\.nuget\\packages\\",
+        "outputPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Memory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Fisabeel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj": {
+                "projectPath": "D:\\_WorkPlace\\#1 Разработка\\_CSHARP\\ProgTegnology\\HotelSystem\\HotelSystem.Lib\\HotelSystem.Lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

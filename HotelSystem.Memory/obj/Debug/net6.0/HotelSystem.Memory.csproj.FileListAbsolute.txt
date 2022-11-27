@@ -1,0 +1,15 @@
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\bin\Debug\net6.0\HotelSystem.Memory.deps.json
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\bin\Debug\net6.0\HotelSystem.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\bin\Debug\net6.0\HotelSystem.Memory.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\bin\Debug\net6.0\HotelSystem.Lib.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\bin\Debug\net6.0\HotelSystem.Lib.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.csproj.AssemblyReference.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.AssemblyInfoInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.AssemblyInfo.cs
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.csproj.CoreCompileInputs.cache
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.csproj.CopyComplete
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\refint\HotelSystem.Memory.dll
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\HotelSystem.Memory.pdb
+D:\_WorkPlace\#1 Разработка\_CSHARP\ProgTegnology\HotelSystem\HotelSystem.Memory\obj\Debug\net6.0\ref\HotelSystem.Memory.dll
